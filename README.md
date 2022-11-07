@@ -1,4 +1,4 @@
-# bugBounty_checkList
+# R3c0n_Ch3ckList
 - [ ]  create folders < subdomains , urls, ips, patterns, js >
 
 # Finding root domains
